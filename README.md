@@ -6,8 +6,8 @@ A simple blockchain implementation in Java using Bouncy Castle for cryptographic
 This project demonstrates the basic concepts of a blockchain, including block creation, chain validation, and proof of work. It uses the Bouncy Castle library (bcprov-lts8on-2.73.7.jar) for cryptographic algorithms and Gson (gson-2.8.2.jar) for serializing objects to JSON format.
 
 # Libraries Used
-Bouncy Castle [(bcprov-lts8on-2.73.7.jar)](https://www.bouncycastle.org/download/bouncy-castle-java-lts/): Provides cryptographic functionality like hashing, signing, etc.  
-Gson [(gson-2.8.2.jar)](https://central.maven.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar): A library for converting Java objects to JSON and vice versa.
+Bouncy Castle [bcprov-lts8on-2.73.7.jar](https://www.bouncycastle.org/download/bouncy-castle-java-lts/): Provides cryptographic functionality like hashing, signing, etc.  
+Gson [gson-2.8.2.jar](https://central.maven.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar): A library for converting Java objects to JSON and vice versa.
 # Features:
 Block creation with data and timestamp  
 Proof-of-work (PoW) to mine blocks  
@@ -17,8 +17,8 @@ JSON serialization of blocks using Gson
 
 # Requirements:
 Java 8 or higher  
-Bouncy Castle library (bcprov-lts8on-2.73.7.jar)  
-Gson library (gson-2.8.2.jar).
+Bouncy Castle library(bcprov-lts8on-2.73.7.jar)  
+  Gson library (gson-2.8.2.jar).
 
 # Installation
 Clone or download this repository to your local machine:
